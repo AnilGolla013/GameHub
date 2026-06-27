@@ -1,6 +1,13 @@
 # Game Hub
 
-Small Java console collection of simple games (Anagram Solver, GK Quiz, Guess a Number, Hangman, Rock Paper Scissors, Tic Tac Toe).
+Game Hub is Java console collection of simple games 
+
+->Anagram Solver
+->GK Quiz
+->Guess a Number
+->Hangman
+->Rock Paper Scissors
+->Tic Tac Toe
 
 How to build & run
 
