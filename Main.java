@@ -140,7 +140,7 @@ public class Main {
         System.out.println();
     }
 
-    private void printFarewell() {echo "# GameHub" >> README.md
+    private void printFarewell() {
 
         int total = playCount.values().stream().mapToInt(Integer::intValue).sum();
         System.out.println();
